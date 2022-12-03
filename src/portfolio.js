@@ -36,6 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/adamlisicki",
   linkedin: "https://www.linkedin.com/in/adamlisickci/",
   gmail: "adam.lisicki@adamlisicki.pl",
+  twitter: "https://twitter.com/AdamLisicki",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -50,7 +51,7 @@ const skillsSection = {
     emoji(
       "⚡ Design, implement and manage cloud-based systems"
     ),
-    emoji("⚡ Automate deployment with IaC tools"),
+    emoji("⚡ Automate deployment with IaC tools (Terraform, Ansible) "),
     emoji(
       "⚡ Build and manage CI/CD pipelines"
     )
@@ -69,13 +70,21 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
+      skillName: "GCP",
+      fontAwesomeClassname: "fab fa-google"
+    },
+    {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
       skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
+      fontAwesomeClassname: "fab fa-docker" 
+    },
+    {
+      skillName: "linux",
+      fontAwesomeClassname: "fab fa-linux"
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -175,59 +184,76 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Certifications 🏆 "),
+  title: emoji("Certifications and badges 🏆 "),
   subtitle:
     "",
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Microsoft Certified: Azure Administrator Associate",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "",
+      image: require("./assets/images/az-104.8eb34669.png"),
+      imageAlt: "AZ-104",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://www.credly.com/badges/972fec60-6526-4766-bcbd-f4a7b2bd9073"
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "AWS Partner: Accreditation (Technical)",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "",
+      image: require("./assets/images/awspat.png"),
+      imageAlt: "AWS Partner: Accreditation (Technical)",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
+          name: "Badge",
+          url: "https://www.credly.com/badges/76d361da-22e8-4508-bf28-a4c8a00f7ca5"
+        },
       ]
     },
-
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "AWS Cloud Quest: Cloud Practitioner",
+      subtitle:
+        "",
+      image: require("./assets/images/awscloudquestcp.png"),
+      imageAlt: "AWS Partner: Accreditation (Technical)",
       footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
+          name: "Badge",
+          url: "https://www.credly.com/badges/5ff666b9-ef58-4111-958d-f51d6c101daa"
+        },
       ]
-    }
+    },
+    {
+      title: "Well-Architected Proficient",
+      subtitle:
+        "",
+      image: require("./assets/images/awswap.png"),
+      imageAlt: "AWS Partner: Accreditation (Technical)",
+      footerLink: [
+        {
+          name: "Badge",
+          url: "https://www.credly.com/badges/c9e393b3-a933-43eb-a69a-e891a4da1378"
+        },
+      ]
+    },
+    {
+      title: "Google Cloud badges",
+      subtitle:
+        "",
+      image: require("./assets/images/gcplogo2.png"),
+      imageAlt: "Google Cloud badges",
+      footerLink: [
+        {
+          name: "Badge",
+          url: "https://www.cloudskillsboost.google/public_profiles/7e3a32a9-bbc9-478b-860d-5e2018016235"
+        },
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };

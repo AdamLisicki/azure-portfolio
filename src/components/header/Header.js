@@ -56,7 +56,7 @@ function Header() {
           )}
           {viewAchievement && (
             <li>
-              <a href="#achievements">Certifications</a>
+              <a href="#achievements">Certifications and badges</a>
             </li>
           )}
           {viewBlog && (
