@@ -93,10 +93,6 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "git",
       fontAwesomeClassname: "fab fa-git-alt"
     },
-    {
-      skillName: "golang",
-      fontAwesomeClassname: "fab fa-golang"
-    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
