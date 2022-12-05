@@ -85,6 +85,14 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "linux",
       fontAwesomeClassname: "fab fa-linux"
     },
+    {
+      skillName: "jenkins",
+      fontAwesomeClassname: "fab fa-jenkins"
+    },
+    {
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git-alt"
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -197,7 +205,7 @@ const achievementSection = {
       imageAlt: "AZ-104",
       footerLink: [
         {
-          name: "Certification",
+          name: "View Certification",
           url: "https://www.credly.com/badges/972fec60-6526-4766-bcbd-f4a7b2bd9073"
         },
       ]
@@ -210,7 +218,7 @@ const achievementSection = {
       imageAlt: "AWS Partner: Accreditation (Technical)",
       footerLink: [
         {
-          name: "Badge",
+          name: "View Badge",
           url: "https://www.credly.com/badges/76d361da-22e8-4508-bf28-a4c8a00f7ca5"
         },
       ]
@@ -223,7 +231,7 @@ const achievementSection = {
       imageAlt: "AWS Partner: Accreditation (Technical)",
       footerLink: [
         {
-          name: "Badge",
+          name: "View Badge",
           url: "https://www.credly.com/badges/5ff666b9-ef58-4111-958d-f51d6c101daa"
         },
       ]
@@ -236,7 +244,7 @@ const achievementSection = {
       imageAlt: "AWS Partner: Accreditation (Technical)",
       footerLink: [
         {
-          name: "Badge",
+          name: "View Badge",
           url: "https://www.credly.com/badges/c9e393b3-a933-43eb-a69a-e891a4da1378"
         },
       ]
@@ -249,7 +257,7 @@ const achievementSection = {
       imageAlt: "Google Cloud badges",
       footerLink: [
         {
-          name: "Badge",
+          name: "View Badges",
           url: "https://www.cloudskillsboost.google/public_profiles/7e3a32a9-bbc9-478b-860d-5e2018016235"
         },
       ]
