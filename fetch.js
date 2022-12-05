@@ -18,7 +18,7 @@ const ERR = {
     "The request to Medium didn't succeed. Check if Medium username in your .env file is correct."
 };
 if (USE_GITHUB_DATA === "true") {
-  if (USERNAME_GITHUB === undefined) {
+  if (GITHUB_USERNAME === undefined) {
     throw new Error(ERR.noUserName);
   }
 
