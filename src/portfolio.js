@@ -191,7 +191,7 @@ const bigProjects = {
         {
           name: "More About KodeKloud Engineer",
           url: "https://kodekloud.com/kodekloud-engineer/"
-        }
+        },
         {
           name: "My KodeKloud Engineer Profile",
           url: "https://kodekloud-engineer.com/#!/user_profile?uid=16421911572308667"
