@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9556c91e0172a03dd9a78d16d8abc2c",
+    "revision": "2a12e89e2b4e13229c220f5c3aae04ba",
     "url": "/index.html"
   },
   {
-    "revision": "652371be3ecd4ed9d6d5",
+    "revision": "cc1c16778a31a845814d",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "a837d200c4102d0b1489",
+    "revision": "7a360a063e89eaaf9c31",
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "dc480cc4396ae10e3ad7",
+    "revision": "27cec958f09c8a4fcf7e",
     "url": "/static/css/main.f26bcaed.chunk.css"
   },
   {
-    "revision": "3f06d1612a0650ca5a84",
-    "url": "/static/js/2.08b2f9a6.chunk.js"
+    "revision": "e322d390a4a0d780ab25",
+    "url": "/static/js/2.656baf90.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/static/js/2.08b2f9a6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.656baf90.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "652371be3ecd4ed9d6d5",
-    "url": "/static/js/3.d58b42b4.chunk.js"
+    "revision": "cc1c16778a31a845814d",
+    "url": "/static/js/3.873705e4.chunk.js"
   },
   {
-    "revision": "a837d200c4102d0b1489",
-    "url": "/static/js/4.7e77a6e9.chunk.js"
+    "revision": "7a360a063e89eaaf9c31",
+    "url": "/static/js/4.3834c8de.chunk.js"
   },
   {
-    "revision": "dc480cc4396ae10e3ad7",
-    "url": "/static/js/main.ae5a0a0c.chunk.js"
+    "revision": "27cec958f09c8a4fcf7e",
+    "url": "/static/js/main.42cec2e3.chunk.js"
   },
   {
-    "revision": "243414f70854d31db503",
-    "url": "/static/js/runtime-main.cb2b7e49.js"
+    "revision": "af093edc26d70412a491",
+    "url": "/static/js/runtime-main.719ad9b2.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
+  },
+  {
+    "revision": "ace999cee0ed54ac810108ad906c119f",
+    "url": "/static/media/kodekloudlogo.ace999ce.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
