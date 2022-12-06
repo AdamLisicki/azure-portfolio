@@ -183,6 +183,22 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
+    {
+      image: require("./assets/images/kodekloudlogo.png"),
+      projectName: "KodeKloud Engineer",
+      projectDesc: "Platform where I am working for a fictional company on diffrent roles from System Adminstrator to DevOps Architects. Currently I am DevOps Engineer.",
+      footerLink: [
+        {
+          name: "More About KodeKloud Engineer",
+          url: "https://kodekloud.com/kodekloud-engineer/"
+        }
+        {
+          name: "My KodeKloud Engineer Profile",
+          url: "https://kodekloud-engineer.com/#!/user_profile?uid=16421911572308667"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
   
   ],
   display: true // Set false to hide this section, defaults to true
