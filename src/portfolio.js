@@ -160,24 +160,26 @@ const workExperiences = {
         "Firewalls",
         "Deploy Simple Applications"
       ],
-      role: "DevOps Engineer",
-      company: "KodeKloud Engineer",
-      companylogo: require("./assets/images/kodekloudlogo.png"),
-      date: "October 2022 - Present",
-      desc: "Platform where I am working for a fictional company as a DevOps Engineer.",
-      descBullets: [
-        "Deploy multi-tier applications Troubleshoot Issues",
-        "Develop Automation Playbooks",
-        "Build CI/CD Pipelines",
-        "Storage, LVM",
-        "Containerize Applications",
-        "Build Container Clusters",
-        "Deploy Monitoring Solutions",
-        "Regular Maintenance Activities",
-        "Guiding Systems Administrators",
-      ]
+     
     },
- 
+    {
+    role: "DevOps Engineer",
+    company: "KodeKloud Engineer",
+    companylogo: require("./assets/images/kodekloudlogo.png"),
+    date: "October 2022 - Present",
+    desc: "Platform where I am working for a fictional company as a DevOps Engineer.",
+    descBullets: [
+      "Deploy multi-tier applications Troubleshoot Issues",
+      "Develop Automation Playbooks",
+      "Build CI/CD Pipelines",
+      "Storage, LVM",
+      "Containerize Applications",
+      "Build Container Clusters",
+      "Deploy Monitoring Solutions",
+      "Regular Maintenance Activities",
+      "Guiding Systems Administrators",
+    ]
+  },
   ]
 };
 
