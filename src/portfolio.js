@@ -143,14 +143,38 @@ const workExperiences = {
   display: false, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Presales Consultant",
-      company: "IT Solution Factor",
-      companylogo: require("./assets/images/itsflogo.png"),
-      date: "March 2020 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "System Administrator",
+      company: "KodeKloud Engineer",
+      companylogo: require("./assets/images/kodekloudlogo.png"),
+      date: "January 2022 – October 2022",
+      desc: "Platform where I was working for a fictional company as a System Administrator.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Linux System Administration",
+        "Users & Groups",
+        "Filesystems",
+        "Storage, LVM",
+        "Packages",
+        "Services",
+        "Networking",
+        "IPTables",
+        "Firewalls",
+        "Deploy Simple Applications"
+      ],
+      role: "DevOps Engineer",
+      company: "KodeKloud Engineer",
+      companylogo: require("./assets/images/kodekloudlogo.png"),
+      date: "October 2022 - Present",
+      desc: "Platform where I am working for a fictional company as a DevOps Engineer.",
+      descBullets: [
+        "Deploy multi-tier applications Troubleshoot Issues",
+        "Develop Automation Playbooks",
+        "Build CI/CD Pipelines",
+        "Storage, LVM",
+        "Containerize Applications",
+        "Build Container Clusters",
+        "Deploy Monitoring Solutions",
+        "Regular Maintenance Activities",
+        "Guiding Systems Administrators",
       ]
     },
  
@@ -183,23 +207,6 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
-    {
-      image: require("./assets/images/kodekloudlogo.png"),
-      projectName: "KodeKloud Engineer",
-      projectDesc: "Platform where I am working for a fictional company on diffrent roles from System Adminstrator to DevOps Architects. Currently I am DevOps Engineer.",
-      footerLink: [
-        {
-          name: "More About KodeKloud Engineer",
-          url: "https://kodekloud.com/kodekloud-engineer/"
-        },
-        {
-          name: "My KodeKloud Engineer Profile",
-          url: "https://kodekloud-engineer.com/#!/user_profile?uid=16421911572308667"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-  
   ],
   display: true // Set false to hide this section, defaults to true
 };
