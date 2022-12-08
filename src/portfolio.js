@@ -143,11 +143,11 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "System Administrator",
+      role: "Systems Administrator",
       company: "KodeKloud Engineer",
       companylogo: require("./assets/images/kodekloudlogo.png"),
       date: "January 2022 – October 2022",
-      desc: "Platform where I was working for a fictional company as a System Administrator.",
+      desc: "Platform where I was working for a fictional company as a Systems Administrator.",
       descBullets: [
         "Linux System Administration",
         "Users & Groups",
