@@ -222,6 +222,21 @@ const achievementSection = {
     "",
 
   achievementsCards: [
+     {
+      title: "Microsoft Certified: DevOps Engineer Expert",
+      subtitle:
+        "",
+      image: require("./assets/images/az400.png"),
+      imageAlt: "AZ-400",
+      footerLink: [
+        {
+          name: "In Progress"
+        },
+        {
+          name: "Estimated date of passing the AZ-400 exam: End of the Year"
+        },
+      ]
+    },
     {
       title: "Microsoft Certified: Azure Administrator Associate",
       subtitle:
