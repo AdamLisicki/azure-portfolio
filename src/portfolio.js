@@ -232,9 +232,6 @@ const achievementSection = {
         {
           name: "In Progress"
         },
-        {
-          name: "Estimated date of passing the AZ-400 exam: End of the Year"
-        },
       ]
     },
     {
