@@ -230,7 +230,8 @@ const achievementSection = {
       imageAlt: "AZ-400",
       footerLink: [
         {
-          name: "In Progress"
+          name: "View Certification",
+          url: "https://www.credly.com/badges/d7db7c70-1fda-43dd-8a27-d6dc297a758b"
         },
       ]
     },
