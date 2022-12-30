@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.6b13a1fd.chunk.css",
-    "main.js": "/static/js/main.31ee89d2.chunk.js",
-    "main.js.map": "/static/js/main.31ee89d2.chunk.js.map",
+    "main.js": "/static/js/main.b2792fb9.chunk.js",
+    "main.js.map": "/static/js/main.b2792fb9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2acaa3af.js",
     "runtime-main.js.map": "/static/js/runtime-main.2acaa3af.js.map",
-    "static/js/2.5a3ae6d6.chunk.js": "/static/js/2.5a3ae6d6.chunk.js",
-    "static/js/2.5a3ae6d6.chunk.js.map": "/static/js/2.5a3ae6d6.chunk.js.map",
+    "static/js/2.03b76469.chunk.js": "/static/js/2.03b76469.chunk.js",
+    "static/js/2.03b76469.chunk.js.map": "/static/js/2.03b76469.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
     "static/js/3.39e4d19b.chunk.js": "/static/js/3.39e4d19b.chunk.js",
     "static/js/3.39e4d19b.chunk.js.map": "/static/js/3.39e4d19b.chunk.js.map",
@@ -14,12 +14,12 @@
     "static/js/4.ec2ecc6b.chunk.js": "/static/js/4.ec2ecc6b.chunk.js",
     "static/js/4.ec2ecc6b.chunk.js.map": "/static/js/4.ec2ecc6b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2987d1f1fe9ed8e165658c1a56116c13.js": "/precache-manifest.2987d1f1fe9ed8e165658c1a56116c13.js",
+    "precache-manifest.079a8762b1f568380b4d83c522cc2e1d.js": "/precache-manifest.079a8762b1f568380b4d83c522cc2e1d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
     "static/css/main.6b13a1fd.chunk.css.map": "/static/css/main.6b13a1fd.chunk.css.map",
-    "static/js/2.5a3ae6d6.chunk.js.LICENSE.txt": "/static/js/2.5a3ae6d6.chunk.js.LICENSE.txt",
+    "static/js/2.03b76469.chunk.js.LICENSE.txt": "/static/js/2.03b76469.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/awscloudquestcp.png": "/static/media/awscloudquestcp.d1ac01df.png",
     "static/media/awspat.png": "/static/media/awspat.d331dd0f.png",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2acaa3af.js",
-    "static/js/2.5a3ae6d6.chunk.js",
+    "static/js/2.03b76469.chunk.js",
     "static/css/main.6b13a1fd.chunk.css",
-    "static/js/main.31ee89d2.chunk.js"
+    "static/js/main.b2792fb9.chunk.js"
   ]
 }
