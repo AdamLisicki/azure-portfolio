@@ -224,6 +224,19 @@ const achievementSection = {
 
   achievementsCards: [
      {
+      title: "Microsoft Certified: Azure Solutions Architect Expert",
+      subtitle:
+        "",
+      image: require("./assets/images/az305.png"),
+      imageAlt: "AZ-305",
+      footerLink: [
+        {
+          name: "View Certification",
+          url: "https://www.credly.com/badges/e2032e8c-b18d-4d63-bf44-8e6e0c3dcda8"
+        },
+      ]
+     },
+     {
       title: "Microsoft Certified: DevOps Engineer Expert",
       subtitle:
         "",
