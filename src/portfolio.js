@@ -219,10 +219,6 @@ const bigProjects = {
           name: "GitHub",
           url: "https://github.com/AdamLisicki/aws-bootcamp-cruddur-2023"
         },
-        {
-          name: "Diagram",
-          url: "https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=cruddur_cfn.drawio%23Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1stVhcoviyEqIVw_3U2NT_w2vimlr_Z0m%26export%3Ddownload"
-        }
         //  you can add extra buttons here.
       ]
     },
