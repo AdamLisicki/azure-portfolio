@@ -210,6 +210,18 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
+    {
+      image: require("./assets/images/aws-cpb-gold-badge.svg"),
+      projectName: "An application modeled after Twitter, hosted and scaled on the AWS platform.",
+      projectDesc: "Docker, DynamoDB, AWS X-Ray, AWS CloudWatch, AWS RDS, Amazon Cognito, AWS ECS (Fargate), AWS ECR, AWS CDK, Amazon CloudFront, AWS API Gateway, AWS CodeBuild, AWS CodePipeline, AWS CloudFormation, AWS SAM, AWS Lambda, AWS S3, AWS ELB, AWS Route53, GitHub, GitHub Actions, Bash, Python, Ruby, Diagraming (Lucid.app, draw.io)",
+      footerLink: [
+        {
+          name: "GitHub Repository",
+          url: "https://github.com/AdamLisicki/aws-bootcamp-cruddur-2023"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
