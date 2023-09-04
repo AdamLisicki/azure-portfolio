@@ -199,18 +199,6 @@ const bigProjects = {
   subtitle: "",
   projects: [
     {
-      image: require("./assets/images/azurelogo.png"),
-      projectName: "Static website hosted on Azure with Function App to count visitors",
-      projectDesc: "HTML, CSS, Azure Blob Storage, Azure CDN, Azure Functions, Azure CosmosDB, GitHub Actions",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://www.showcase.adamlisicki.pl/"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
       image: require("./assets/images/aws-cpb-gold-badge.svg"),
       projectName: "An application modeled after Twitter, hosted and scaled on the AWS platform.",
       projectDesc: "Docker, DynamoDB, AWS X-Ray, AWS CloudWatch, AWS RDS, Amazon Cognito, AWS ECS (Fargate), AWS ECR, AWS CDK, Amazon CloudFront, AWS API Gateway, AWS CodeBuild, AWS CodePipeline, AWS CloudFormation, AWS SAM, AWS Lambda, AWS S3, AWS ELB, AWS Route53, GitHub, GitHub Actions, Bash, Python, Ruby, Diagraming (Lucid.app, draw.io)",
@@ -218,6 +206,22 @@ const bigProjects = {
         {
           name: "GitHub Repository",
           url: "https://github.com/AdamLisicki/aws-bootcamp-cruddur-2023"
+        },
+        {
+          name: "Diagram",
+          url: "https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=cruddur_cfn.drawio%23Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1stVhcoviyEqIVw_3U2NT_w2vimlr_Z0m%26export%3Ddownload"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/azurelogo.png"),
+      projectName: "Static website hosted on Azure with Function App to count visitors",
+      projectDesc: "HTML, CSS, Azure Blob Storage, Azure CDN, Azure Functions, Azure CosmosDB, GitHub Actions",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.showcase.adamlisicki.pl/"
         }
         //  you can add extra buttons here.
       ]
