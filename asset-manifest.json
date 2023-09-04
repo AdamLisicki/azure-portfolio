@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3cf13eba.css",
-    "main.js": "/static/js/main.e136d477.js",
+    "main.js": "/static/js/main.f37426d4.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -13,6 +13,7 @@
     "static/media/awscloudquestcp.png": "/static/media/awscloudquestcp.2ee68f416e675ec61bb5.png",
     "static/media/az305.png": "/static/media/az305.f769bbc40373953678e7.png",
     "static/media/az400.png": "/static/media/az400.b62c5bb78948eb006440.png",
+    "static/media/aws-cpb-gold-badge.svg": "/static/media/aws-cpb-gold-badge.fcee26ce04df3411baed2ba4b0ebee29.svg",
     "static/media/awswap.png": "/static/media/awswap.c3e326dad82d6f7d8a64.png",
     "static/media/az-104.8eb34669.png": "/static/media/az-104.8eb34669.74a25f7901eed2de3ed2.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -23,7 +24,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3cf13eba.css.map": "/static/css/main.3cf13eba.css.map",
-    "main.e136d477.js.map": "/static/js/main.e136d477.js.map",
+    "main.f37426d4.js.map": "/static/js/main.f37426d4.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -31,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.3cf13eba.css",
-    "static/js/main.e136d477.js"
+    "static/js/main.f37426d4.js"
   ]
 }
