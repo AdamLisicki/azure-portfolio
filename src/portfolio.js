@@ -199,7 +199,7 @@ const bigProjects = {
   subtitle: "",
   projects: [
     {
-      image: require("./assets/images/aws-cpb-gold-badge.svg"),
+      image: require("./assets/images/aws-cpb-gold-badge.jpg"),
       projectName: "An application modeled after Twitter, hosted and scaled on the AWS platform.",
       projectDesc: "Docker, DynamoDB, AWS X-Ray, AWS CloudWatch, AWS RDS, Amazon Cognito, AWS ECS (Fargate), AWS ECR, AWS CDK, Amazon CloudFront, AWS API Gateway, AWS CodeBuild, AWS CodePipeline, AWS CloudFormation, AWS SAM, AWS Lambda, AWS S3, AWS ELB, AWS Route53, GitHub, GitHub Actions, Bash, Python, Ruby, Diagraming (Lucid.app, draw.io)",
       footerLink: [
@@ -209,7 +209,7 @@ const bigProjects = {
         },
         {
           name: "Diagram",
-          url: "https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=cruddur_cfn.drawio%23Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1stVhcoviyEqIVw_3U2NT_w2vimlr_Z0m%26export%3Ddownload"
+          url: "https://svgshare.com/i/xHN.svg"
         }
         //  you can add extra buttons here.
       ]
