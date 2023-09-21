@@ -264,6 +264,19 @@ const achievementSection = {
 
   achievementsCards: [
      {
+      title: "AWS Cloud Project Bootcamp",
+      subtitle:
+        "",
+      image: require("./assets/images/aws-cpb-badge .png"),
+      imageAlt: "AWS-CPB",
+      footerLink: [
+        {
+          name: "View Certification",
+          url: "https://app.exampro.co/student/achievements/validate/certificate/mTPdhrkjxdrj05YpcO2QbA15eaa"
+        },
+      ]
+     },
+     {
       title: "Microsoft Certified: Azure Solutions Architect Expert",
       subtitle:
         "",
