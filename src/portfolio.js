@@ -204,7 +204,7 @@ const bigProjects = {
       projectDesc: "Docker, DynamoDB, AWS X-Ray, AWS CloudWatch, AWS RDS, Amazon Cognito, AWS ECS (Fargate), AWS ECR, AWS CDK, Amazon CloudFront, AWS API Gateway, AWS CodeBuild, AWS CodePipeline, AWS CloudFormation, AWS SAM, AWS Lambda, AWS S3, AWS ELB, AWS Route53, GitHub, GitHub Actions, Bash, Python, Ruby, Diagraming (Lucid.app, draw.io)",
       footerLink: [
         {
-          name: "GitHub Repository",
+          name: "Visit GitHub",
           url: "https://github.com/AdamLisicki/aws-bootcamp-cruddur-2023"
         },
         {
@@ -222,6 +222,30 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://www.showcase.adamlisicki.pl/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/gcp-terraform-1.png"),
+      projectName: "GCP Terraform Project",
+      projectDesc: "Google Storage Bucket, Cloud Load Balancing, Cloud DNS, Cloud CDN, Terraform",
+      footerLink: [
+        {
+          name: "Visit GitHub",
+          url: "https://github.com/AdamLisicki/gcp-terraform"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/gcp-logo.png"),
+      projectName: "GCP DevOps Project",
+      projectDesc: "Google Kubernetes Engine, Cloud Build, Terraform, Docker, Bash scripts, GitLab CI/CD",
+      footerLink: [
+        {
+          name: "Visit GitHub",
+          url: "https://github.com/AdamLisicki/gcp-devops-project"
         }
         //  you can add extra buttons here.
       ]
